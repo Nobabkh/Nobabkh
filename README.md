@@ -64,6 +64,10 @@ I'm a **Software Engineer** with 5+ years of experience building **full-stack ap
 
 ## 🏆 Featured Projects
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-10_important-information?style=for-the-badge&color=blueviolet" alt="Total Projects" />
+</div>
+
 ### 🤖 Taraa AI ⭐
 **AI-Powered Applications Platform** | *Current Project*
 <div align="center">
@@ -168,6 +172,138 @@ End-to-end automated fare collection for local buses with embedded hardware.
 - 📱 Real-time tracking
 
 **Tech Stack:** Python, React, FastAPI, MySQL, Embedded Systems
+
+---
+
+### 🎨 Drawing Board Application
+**Advanced Canvas & Design Tool**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Launched-success" alt="Launched" />
+  <img src="https://img.shields.io/badge/Stack-React--TypeScript--Canvas-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Features-Layers--Shapes--Manipulation-purple" alt="Features" />
+</div>
+
+Full-featured drawing board application built from scratch with advanced graphics capabilities.
+
+**Key Features:**
+  - 🎨 Layer support for complex designs
+  - ✏️ Image manipulation and editing
+  - 🔷 Vector shapes and geometric tools
+  - 💾 Save and export functionality
+  - 🖼️ Modern, responsive UI
+
+**Tech Stack:** React, TypeScript, Canvas API, Modern Frontend Technologies
+
+---
+
+### 🛒 E-commerce Aggregation Platform
+**Multi-Platform Offer Consolidation**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Production-success" alt="Production" />
+  <img src="https://img.shields.io/badge/Stack-React--FastAPI-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Feature-Auto_Filtering-purple" alt="Feature" />
+</div>
+
+Automated platform that filters and consolidates e-commerce offers from multiple sources.
+
+**Key Features:**
+  - 🔍 Automatic offer filtering from multiple platforms
+  - 🔄 Real-time consolidation into unified interface
+  - 💰 Price comparison and tracking
+  - ⚡ Fast search and filtering
+  - 📱 Mobile-responsive design
+
+**Tech Stack:** React, FastAPI, Python, PostgreSQL
+
+---
+
+### 🔌 IoT Device Control System
+**Remote Hardware Management**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Production-success" alt="Production" />
+  <img src="https://img.shields.io/badge/Stack-Python--IoT--WebSockets-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Feature-Remote_Control-green" alt="Feature" />
+</div>
+
+IoT platform enabling remote management and monitoring of connected hardware systems.
+
+**Key Features:**
+  - 📡 Real-time device control and monitoring
+  - 🔌 Support for multiple IoT protocols
+  - 📊 Dashboard for device status
+  - ⚠️ Alerts and notifications
+  - 🔐 Secure authentication and authorization
+
+**Tech Stack:** Python, IoT Protocols, WebSockets, Real-time Communication
+
+---
+
+### 🌐 VPN Infrastructure
+**Secure Network Connectivity**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Production-success" alt="Production" />
+  <img src="https://img.shields.io/badge/Stack-VPN--Linux--Networking-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Security-Encrypted-green" alt="Security" />
+</div>
+
+Secure VPN infrastructure connecting distributed cloud servers for internal communications.
+
+**Key Features:**
+  - 🔒 Encrypted tunnel connections
+  - 🌐 Site-to-site VPN configuration
+  - 🖥️ Multi-server network management
+  - 📊 Network monitoring and logging
+  - 🛡️ DDoS protection and security hardening
+
+**Tech Stack:** VPN Technologies, Linux Networking, Cloud Infrastructure, Security Protocols
+
+---
+
+### 🚀 CI/CD Pipeline
+**Automated Build & Deployment**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Production-success" alt="Production" />
+  <img src="https://img.shields.io/badge/Stack-Jenkins--GitHub--Docker-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Automation-100%25-green" alt="Automation" />
+</div>
+
+Fully automated CI/CD pipeline with commit-triggered workflows and daily reporting.
+
+**Key Features:**
+  - ⚙️ Automated build, test, and deployment
+  - 🔔 Commit-triggered workflows
+  - 📊 Daily automated reporting
+  - 🐳 Docker container integration
+  - 🔄 Rollback and version management
+
+**Tech Stack:** Jenkins, GitHub Actions, Docker, Shell Scripting, CI/CD Best Practices
+
+---
+
+## 📊 Project Overview
+
+<div align="center">
+
+| Category | Projects | Focus Area |
+|----------|----------|------------|
+| 🤖 **AI/ML** | 2 | LLM Integrations, AI Platforms |
+| 🏢 **Enterprise** | 3 | ERP, Document Management, Security |
+| 🌐 **Web & Mobile** | 3 | Full-stack Apps, E-commerce |
+| 🔌 **IoT & Infrastructure** | 2 | Device Control, VPN, CI/CD |
+
+</div>
+
+<div align="center">
+
+### By Technology
+
+<img src="https://img.shields.io/badge/Python-8_projects-blue?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/React-6_projects-61DAFB?style=for-the-badge" alt="React" />
+<img src="https://img.shields.io/badge/FastAPI-5_projects-009688?style=for-the-badge" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Docker-3_projects-2496ED?style=for-the-badge" alt="Docker" />
+<img src="https://img.shields.io/badge/AI_ML-3_projects-purple?style=for-the-badge" alt="AI/ML" />
+
+</div>
 
 ---
 
