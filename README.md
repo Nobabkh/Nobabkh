@@ -65,11 +65,32 @@ I'm a **Software Engineer** with 5+ years of experience building **full-stack ap
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Projects-10_important-information?style=for-the-badge&color=blueviolet" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Projects-11_important-information?style=for-the-badge&color=blueviolet" alt="Total Projects" />
 </div>
 
 ### 🤖 Taraa AI ⭐
 **AI-Powered Applications Platform** | *Current Project*
+
+### 🧠 Taraa AI Agent & RAG System ⭐
+**Advanced AI Agents with RAG & Background Workers** | *Current Project*
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Active" />
+  <img src="https://img.shields.io/badge/Stack-Agents--RAG--MCP-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Architecture-Advanced-purple" alt="Architecture" />
+</div>
+
+Building sophisticated AI agents with Retrieval-Augmented Generation, background workers, and MCP tools integration.
+
+**Key Features:**
+- 🤖 Multi-agent architecture with specialized roles
+- 📚 RAG implementation for knowledge retrieval and contextual responses
+- ⚡ Background workers for async AI task processing
+- 🔌 MCP (Model Context Protocol) tools integration
+- 🔄 Streaming responses with real-time updates
+- 🧠 Context-aware decision making
+- 📊 Performance monitoring and optimization
+
+**Tech Stack:** Python, LangChain, Vector DBs, Async Processing, MCP Protocol, Streaming APIs
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Active" />
   <img src="https://img.shields.io/badge/Stack-Node.js--PostgreSQL--Redis-blue" alt="Stack" />
@@ -286,7 +307,7 @@ Fully automated CI/CD pipeline with commit-triggered workflows and daily reporti
 
 | Category | Projects | Focus Area |
 |----------|----------|------------|
-| 🤖 **AI/ML** | 2 | LLM Integrations, AI Platforms |
+| 🤖 **AI/ML** | 3 | LLM Integrations, AI Agents, RAG |
 | 🏢 **Enterprise** | 3 | ERP, Document Management, Security |
 | 🌐 **Web & Mobile** | 3 | Full-stack Apps, E-commerce |
 | 🔌 **IoT & Infrastructure** | 2 | Device Control, VPN, CI/CD |
@@ -297,11 +318,12 @@ Fully automated CI/CD pipeline with commit-triggered workflows and daily reporti
 
 ### By Technology
 
-<img src="https://img.shields.io/badge/Python-8_projects-blue?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/Python-9_projects-blue?style=for-the-badge" alt="Python" />
 <img src="https://img.shields.io/badge/React-6_projects-61DAFB?style=for-the-badge" alt="React" />
 <img src="https://img.shields.io/badge/FastAPI-5_projects-009688?style=for-the-badge" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Docker-3_projects-2496ED?style=for-the-badge" alt="Docker" />
 <img src="https://img.shields.io/badge/AI_ML-3_projects-purple?style=for-the-badge" alt="AI/ML" />
+<img src="https://img.shields.io/badge/RAG-1_project-green?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/MCP-1_project-orange?style=for-the-badge" alt="MCP" />
 
 </div>
 
