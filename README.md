@@ -65,7 +65,7 @@ I'm a **Software Engineer** with 5+ years of experience building **full-stack ap
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Projects-11_important-information?style=for-the-badge&color=blueviolet" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Projects-13_important-information?style=for-the-badge&color=blueviolet" alt="Total Projects" />
 </div>
 
 ### 🤖 Taraa AI ⭐
@@ -301,6 +301,48 @@ Fully automated CI/CD pipeline with commit-triggered workflows and daily reporti
 
 ---
 
+### 🔌 ProviderClient
+**Service Provider Client Application**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Active" />
+  <img src="https://img.shields.io/badge/Stack-React--TypeScript--Node.js-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Feature-Real_Time-green" alt="Feature" />
+</div>
+
+Service provider client application with real-time communication and integration capabilities.
+
+**Key Features:**
+  - 🔌 Real-time communication via WebSockets
+  - ⚡ Live data synchronization
+  - 🔒 Secure authentication and authorization
+  - 📱 Cross-platform compatibility
+  - 🎨 Modern, intuitive user interface
+
+**Tech Stack:** React, TypeScript, Node.js, WebSockets, Real-time APIs
+
+---
+
+### ⚡ Howlops
+**Workflow Automation & Orchestration System**
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Active" />
+  <img src="https://img.shields.io/badge/Stack-Python--FastAPI--AI-ML-blue" alt="Stack" />
+  <img src="https://img.shields.io/badge/Feature-AI_Automation-purple" alt="Feature" />
+</div>
+
+Advanced workflow automation and orchestration system with AI-powered decision making.
+
+**Key Features:**
+  - 🤖 AI-powered workflow decision making
+  - ⚡ Automated task orchestration
+  - 🔧 Custom workflow builder
+  - 📊 Real-time monitoring and analytics
+  - 🔄 Integration with multiple services
+
+**Tech Stack:** Python, FastAPI, AI/ML, Automation APIs, Task Queues
+
+---
+
 ## 📊 Project Overview
 
 <div align="center">
@@ -308,8 +350,8 @@ Fully automated CI/CD pipeline with commit-triggered workflows and daily reporti
 | Category | Projects | Focus Area |
 |----------|----------|------------|
 | 🤖 **AI/ML** | 3 | LLM Integrations, AI Agents, RAG |
-| 🏢 **Enterprise** | 3 | ERP, Document Management, Security |
-| 🌐 **Web & Mobile** | 3 | Full-stack Apps, E-commerce |
+| 🏢 **Enterprise** | 4 | ERP, Document Management, Security, Automation |
+| 🌐 **Web & Mobile** | 4 | Full-stack Apps, E-commerce, Client Apps |
 | 🔌 **IoT & Infrastructure** | 2 | Device Control, VPN, CI/CD |
 
 </div>
@@ -318,10 +360,10 @@ Fully automated CI/CD pipeline with commit-triggered workflows and daily reporti
 
 ### By Technology
 
-<img src="https://img.shields.io/badge/Python-9_projects-blue?style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/React-6_projects-61DAFB?style=for-the-badge" alt="React" />
-<img src="https://img.shields.io/badge/FastAPI-5_projects-009688?style=for-the-badge" alt="FastAPI" />
-<img src="https://img.shields.io/badge/AI_ML-3_projects-purple?style=for-the-badge" alt="AI/ML" />
+<img src="https://img.shields.io/badge/Python-10_projects-blue?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/React-7_projects-61DAFB?style=for-the-badge" alt="React" />
+<img src="https://img.shields.io/badge/FastAPI-6_projects-009688?style=for-the-badge" alt="FastAPI" />
+<img src="https://img.shields.io/badge/AI_ML-4_projects-purple?style=for-the-badge" alt="AI/ML" />
 <img src="https://img.shields.io/badge/RAG-1_project-green?style=for-the-badge" alt="RAG" />
 <img src="https://img.shields.io/badge/MCP-1_project-orange?style=for-the-badge" alt="MCP" />
 
